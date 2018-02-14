@@ -14,6 +14,7 @@ var kaiString = ["game?", "website?", "app for Android?","app for IOS?", "someth
 creatTypewriter();
 getLetter();
 
+//breaks words into letters and creates a new array
 function getLetter(){
 	if( intervalID == 0 ){
 		intervalID = setInterval( function (){
@@ -30,7 +31,7 @@ function getLetter(){
 		}, 500 );
 	}
 }
-
+//delete letters and creates a null array
 function deleteLetter(){
 	clearInterval(intervalID);
 	intervalID2 = setInterval( function (){
