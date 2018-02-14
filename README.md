@@ -2,10 +2,14 @@
 Effect_typewriter for javaScript ES5
 
 ### Вы можете скачать  Effect_typewriter Zip архивом.
-[![download slide Overla](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)](https://github.com/AndreiKaragayr/Effect_typewriter.git)
+[![download Effect_typewriter](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)](https://github.com/AndreiKaragayr/Effect_typewriter.git)
 
 ---
-[![preview slide](https://b.radikal.ru/b15/1802/8b/dded7f7e1100.gif "One slide")]()
+[![view Effect_typewriter](http://b.radikal.ru/b15/1802/8b/dded7f7e1100.gif
+)]()
+
+![preview Effect_typewriter](![(https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)] "typewriter")
+
 ***
 ### Про библиотеку
 Эффект печатной машинки для любых слов или предложений.
