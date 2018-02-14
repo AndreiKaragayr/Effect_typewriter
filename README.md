@@ -5,10 +5,8 @@ Effect_typewriter for javaScript ES5
 [![download Effect_typewriter](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)](https://github.com/AndreiKaragayr/Effect_typewriter.git)
 
 ---
-[![view Effect_typewriter](http://b.radikal.ru/b15/1802/8b/dded7f7e1100.gif
-)]()
 
-![preview Effect_typewriter](![(https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)] "typewriter")
+![preview Effect_typewriter](preview.png "One slide")
 
 ***
 ### Про библиотеку
