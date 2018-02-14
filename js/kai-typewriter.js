@@ -48,7 +48,7 @@ function deleteLetter(){
 	}, 300 );
 
 }
-
+// create in DOM kai-typewriter
 function creatTypewriter(){
 	var typewriter = document.querySelector('.kai-typewriter'),
 		cursor = creatEl('span');
