@@ -61,7 +61,7 @@ function creatTypewriter(){
 		typewriter.appendChild(cursor);
 		document.querySelector('.typed-cursor').innerHTML = '|';
 }
-
+// creat elements
 function creatEl(el){
 	return document.createElement(el);
 }
