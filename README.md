@@ -6,7 +6,7 @@ Effect_typewriter for javaScript ES5
 
 ---
 
-![preview Effect_typewriter](preview.png "One slide")
+![preview Effect_typewriter](preview.gif "One slide")
 
 ***
 ### Про библиотеку
