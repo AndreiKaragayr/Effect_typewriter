@@ -6,7 +6,7 @@ Effect_typewriter for javaScript ES5
 
 ---
 
-![preview Effect_typewriter](preview.png "One slide")
+![preview Effect_typewriter](preview.gif "One slide")
 
 ***
 ### Про библиотеку
@@ -15,7 +15,7 @@ Effect_typewriter for javaScript ES5
 ***
 ### Как с этим работать:
 1) Задать блоку класс `class="kai-typewriter"`
-2) Написать в блоке с классом `kai-typewriter` введное предложение. Например "Привет" **(без тега)**
+2) Написать в блоке с классом `kai-typewriter` **(без тега)** вводное предложение. Например "Привет".
 3) Подключить стили:
 ```
 <link rel="stylesheet" href="css/kai-typewriter.css">
@@ -31,5 +31,9 @@ Effect_typewriter for javaScript ES5
  - меняем слова в массиве `kaiString`
  ```
  var kaiString = ["game?", "website?", "app for Android?","app for IOS?", "something amazing ;)"]
+ ```
+ на,
+ ```
+ var kaiString = ["Дамы", "Гостода", "Звери"];
  ```
    + слова должны ббыть внутки `[]` скобках, разделены `,` и взяты в кавычки `""`
