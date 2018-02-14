@@ -1,0 +1,60 @@
+html,body{
+	height: 100%;
+}
+
+body{
+	font-family: 'Open Sans';
+	font-size: 20px;
+	margin: 0;
+	color: #212121;
+}
+
+.kai-typewriter{
+	font-size: 36px;
+	font-weight: 700;
+	text-align: center;
+	margin: 1em 0;
+}
+
+.typed-cursor{
+	animation-name: cursor;
+	animation-iteration-count: infinite;
+	animation-duration: 700ms;
+	transition-timing-function: cubic-bezier(0.75,0,0.125,1);
+}
+
+.kai-typewriter .typed,
+.kai-typewriter .typed-cursor{
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	display: inline-block;
+	color: inherit;
+}
+
+.kai-typewriter .typed-cursor{
+	font-style: normal;
+	font-weight: bold;
+	color: #212121;
+}
+
+@-webkit-keyframes cursor {
+	0% { opacity: 1; }
+	50% { opacity: 0; }
+	100% { opacity: 1; }
+}
+@-o-keyframes cursor {
+	0% { opacity: 1; }
+	50% { opacity: 0; }
+	100% { opacity: 1; }
+}
+@-moz-keyframes cursor {
+	0% { opacity: 1; }
+	50% { opacity: 0; }
+	100% { opacity: 1; }
+}
+@keyframes cursor {
+	0% { opacity: 1; }
+	50% { opacity: 0; }
+	100% { opacity: 1; }
+}
